@@ -1,3 +1,5 @@
+import { SpeedInsights } from "@vercel/speed-insights/next"
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
