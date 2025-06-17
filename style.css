@@ -140,11 +140,10 @@
   }
   
 .signature {
-    display: flex;
    background-color:mediumaquamarine;
    padding: 5px;
    border-radius: 15px 50px;
-   position: absolute;
+   position: fixed;
    bottom: 10px;
    left: 10px;
    font-size: 12px;
