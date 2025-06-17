@@ -140,6 +140,7 @@
   }
   
 .signature {
+    display: flex;
    background-color:mediumaquamarine;
    padding: 5px;
    border-radius: 15px 50px;
